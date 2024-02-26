@@ -43,18 +43,3 @@ student2.setSubject("Geometry");
 student2.exclude('плохая учёба')
 console.log(student2)
 // {name: "Артём", gender: "мужской", age: 25, excluded: "плохая учёба"}
-Student.prototype.setSubject = function(subjectName) {
-
-}
-
-Student.prototype.addMarks = function(...marks) {
-
-}
-
-Student.prototype.getAverage = function() {
-
-}
-
-Student.prototype.exclude = function(reason) {
-
-}
